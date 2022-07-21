@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Blossom Dugbatey</h1>
-<h3 align="center">Software Engineer</h3>
+<h1>Hi 👋, I'm Blossom Dugbatey</h1>
+<h3>Software Engineer</h3>
 
 
 A software engineer passionate about building results-driven and efficient solutions through technology. I have a toxic relationship with tech; one minute I'm fascinated with the amazing solutions in tech and building them, the next I'm bawling my eyes out. My relationship with technology is most likely the most preferable loop I could possibly be in. Beyond developing solutions, I enjoy community building and volunteering to mentor newbies to tech.
