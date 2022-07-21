@@ -1,3 +1,4 @@
+<!-- BLOG-POST-LIST:START -->
 <h1>Hi 👋, I'm Blossom Dugbatey</h1>
 <h3>Software Engineer</h3>
 
@@ -30,3 +31,5 @@ A software engineer passionate about building results-driven and efficient solut
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dugbatey-blossom20&" alt="dugbatey-blossom20" /></p><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dugbatey-blossom20&show_icons=true&locale=en&layout=compact" alt="dugbatey-blossom20" /></p><br>
+
+<!-- BLOG-POST-LIST:END -->
