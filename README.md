@@ -6,10 +6,14 @@
 A software engineer passionate about building results-driven and efficient solutions through technology. I have a toxic relationship with tech; one minute I'm fascinated with the amazing solutions in tech and building them, the next I'm bawling my eyes out. My relationship with technology is most likely the most preferable loop I could possibly be in. Beyond developing solutions, I enjoy community building and volunteering to mentor newbies to tech.
 
    - 🌱 I’m currently learning **Reactjs and Nodejs**
+   
+   - 📘 Currently reading Mindset(Changing The Way You think To Fulfil Your Potential, Updated Edition) by Carol S. Dweck.
 
    - 📍 Currently based in **Accra, Ghana 🇬🇭**
 
    - 📧 Reach out to me at [blossomddb@gmail.com](blossomddb@gmail.com)
+   
+   - 🚀 Starting my 100 days of Python
 
    - ⚡ Fun fact **I enjoy 🏊‍♀️swimming and reading**
 
