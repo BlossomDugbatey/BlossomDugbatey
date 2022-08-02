@@ -13,7 +13,7 @@ A software engineer passionate about building results-driven and efficient solut
 
    - 📧 Reach out to me at [blossomddb@gmail.com](blossomddb@gmail.com)
    
-   - 🚀 Started my 100 days of python 1st August, 2022.
+   - 🚀 Started my 100 days of python 1st August, 2022. Here's my guide [https://elated-baker-85c.notion.site/Blossom-s-Python-Guide-db7bf79cad9741cd92cdf09bcbfe2a82](https://elated-baker-85c.notion.site/Blossom-s-Python-Guide-db7bf79cad9741cd92cdf09bcbfe2a82)
 
    - ⚡ Fun fact **I enjoy 🏊‍♀️swimming and reading**
 
