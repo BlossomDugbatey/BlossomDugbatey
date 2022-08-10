@@ -13,14 +13,14 @@ A software engineer passionate about building results-driven and efficient solut
 
    - 📧 Reach out to me at [blossomddb@gmail.com](blossomddb@gmail.com)
    
-   - 🚀 Started my 100 days of python 1st August, 2022. Here's my guide [https://elated-baker-85c.notion.site/Blossom-s-Python-Guide-db7bf79cad9741cd92cdf09bcbfe2a82](https://elated-baker-85c.notion.site/Blossom-s-Python-Guide-db7bf79cad9741cd92cdf09bcbfe2a82)
+   - 🚀 Started my 100 days of python August, 2022. Here's my guide [https://elated-baker-85c.notion.site/Blossom-s-Python-Guide-db7bf79cad9741cd92cdf09bcbfe2a82](https://elated-baker-85c.notion.site/Blossom-s-Python-Guide-db7bf79cad9741cd92cdf09bcbfe2a82)
 
    - ⚡ Fun fact **I enjoy 🏊‍♀️swimming and reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dedecodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dedecodex" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/blossom-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blossom-/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/blossom-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/blossom-/" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/dedecodex" target="blank"><img src="https://img.shields.io/twitter/follow/dedecodex?logo=twitter&style=for-the-badge" alt="dedecodex" /></a> </p>
